@@ -244,6 +244,24 @@
     "vitamins": [ [ "vitC", "4200 μg" ], [ "iron", "200 μg" ], [ "calcium", "23800 μg" ], [ "veggy_allergen", 1 ] ]
   },
   {
+    "//": "Pods abstracted away"
+    "type": "COMESTIBLE",
+    "id": "pea",
+    "name": { "str": "pea" },
+    "weight": "250g",
+    "color": "green",
+    "comestible_type": "FOOD",
+    "symbol": ".",
+    "quench": 5,
+    "calories": 200,
+    "description": "250 grams of peas, without pods.",
+    "price": "40 cent",
+    "price_postapoc": "20 cent",
+    "material": [ "veggy" ],
+    "volume": "250 ml",
+    "fun": 0
+    "vitamins": [ [ "veggy_allergen", 1 ],
+  {
     "type": "COMESTIBLE",
     "id": "cattail_rhizome",
     "name": { "str": "cattail rhizome" },
