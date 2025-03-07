@@ -42,7 +42,8 @@
       [ "seed_spurge", 10 ],
       [ "seed_popcorn", 10 ],
       [ "seed_mustard", 10 ],
-      [ "seed_hops", 20 ]
+      [ "seed_hops", 20 ],
+      [ "seed_peas", 60 ]
     ]
   },
   {
@@ -123,6 +124,7 @@
       [ "seed_lettuce", 1 ],
       [ "seed_cabbage", 1 ],
       [ "seed_radish", 1 ],
+      [ "seed_peas", 1 ],
       [ "seed_onion", 1 ],
       [ "seed_carrot", 1 ],
       [ "seed_watermelon", 1 ],
