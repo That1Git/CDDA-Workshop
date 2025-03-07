@@ -209,6 +209,16 @@
     "seed_data": { "plant_name": "radish", "fruit": "radish_taproot", "byproducts": [ "withered" ], "grow": "35 days" }
   },
   {
+    "type":"COMESTIBLE",
+    "id": "seed_pea",
+    "copy-from": "seed",
+    "price": "50 cent",
+    "name": {"str_sp": "pea seeds" },
+    "description": "Some peas, dried for planting. Not worth eating.",
+    "flags": [ "PLANTABLE_SEED", "NUTRIENT_OVERRIDE", "INEDIBLE" ],
+    "seed_data": { "plant_name": "pea plant", "fruit": "pea", "byproducts": [ "withered" ], "grow": "60 days" }
+  },
+  {
     "type": "COMESTIBLE",
     "id": "seed_tomato",
     "copy-from": "seed",
