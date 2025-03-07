@@ -883,6 +883,7 @@
       { "item": "sandwich_pbm", "prob": 30 },
       { "item": "mushroom", "prob": 4 },
       { "item": "blueberries", "prob": 3 },
+      { "item": "peas", "prob": 8 },
       { "item": "blueberries", "prob": 1, "custom-flags": [ "IRRADIATED" ] },
       { "item": "strawberries", "prob": 2 },
       { "item": "strawberries", "prob": 1, "custom-flags": [ "IRRADIATED" ] },
