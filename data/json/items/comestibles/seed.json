@@ -1086,5 +1086,16 @@
     "name": { "str_sp": "eggplant seeds" },
     "description": "Some eggplant seeds.",
     "seed_data": { "plant_name": "eggplant", "fruit": "eggplant", "seeds": false, "byproducts": [ "withered" ], "grow": "60 days" }
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "seed_pea",
+    "copy-from": "seed",
+    "price": "60 cent",
+    "name": { "str_sp": "pea seeds" },
+    "category": "seeds",
+    "description": "Several pea seeds.",
+    "seed_data": { "plant_name": "pea plant", "fruit": "pea_handfull", "byproducts": [ "withered" ], "grow": "60 days" },
+    "extend": { "flags": [ "NUTRIENT_OVERRIDE" ] }
   }
 ]
